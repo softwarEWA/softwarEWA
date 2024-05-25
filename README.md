@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨🏻‍💻 İnstagram [boş kalmasın](https://www.instagram.com/emiwn.py)
+- 👨🏻‍💻 İnstagram [emiwn.py](https://www.instagram.com/emiwn.py)
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [My profile](My profile)
+- 👨‍💻 All of my projects are available at [My profile](https://github.com/softwarEWA)
 
 - 💬 Ask me about **Yaş kaç, nerelisin, kaç dil biliyün**
 
