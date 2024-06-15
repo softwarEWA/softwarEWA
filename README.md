@@ -3,23 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eware0&label=Profile%20views&color=0e75b6&style=flat" alt="eware0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eware0" alt="eware0" /></a> </p>
-
-- 🔭 Şuan Bu konuda çalışıyorum **Masaüstü uygulamaları**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softwarEWA" alt="softwarEWA" /></a> </p>
 
 - 🌱 I’m currently learning **Assembly**
 
 - 👨🏻‍💻 İnstagram [emiwn.py](https://www.instagram.com/emiwn.py)
 
-- 🤝 I’m looking for help with **Nothing**
-
 - 👨‍💻 All of my projects are available at [My profile](https://github.com/softwarEWA)
 
-- 💬 Ask me about **Yaş kaç, nerelisin, kaç dil biliyün**
-
 - 📫 How to reach me **ewaresoftware@gmail.com**
-
-- ⚡ Fun fact **I think ı am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
