@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨🏻‍💻 İnstagram [emiwn.py](https://www.instagram.com/eware0)
+- 👨🏻‍💻 İnstagram [eware0](https://www.instagram.com/eware0)
 
 - 👨‍💻 All of my projects are available at [My profile](https://github.com/softwarEWA)
 
