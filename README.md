@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">Yazılımcıyım siber güvenliğim türküm güçlüyüm çalışkanım</h3>
+<h3 align="center">Cyber Security special</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eware0&label=Profile%20views&color=0e75b6&style=flat" alt="eware0" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨🏻‍💻 İnstagram [emiwn.py](https://www.instagram.com/emiwn.py)
+- 👨🏻‍💻 İnstagram [emiwn.py](https://www.instagram.com/eware0)
 
 - 👨‍💻 All of my projects are available at [My profile](https://github.com/softwarEWA)
 
-- 📫 How to reach me **ewaresoftware@gmail.com**
+- 📫 How to reach me **işi olan her türlü ulaşır ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
