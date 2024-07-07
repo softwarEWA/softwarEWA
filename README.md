@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">Cyber Security special</h3>
+<h3 align="center">Cyber Security specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eware0&label=Profile%20views&color=0e75b6&style=flat" alt="eware0" /> </p>
 
